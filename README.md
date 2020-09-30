@@ -11,7 +11,7 @@ This repository shows how to use YOLOv4 and YOLOv4-Tiny to track objects using `
 ### Tracking ``person``
 <p align="center"><img src="person.gif" width="640"\></p>
 
-### Tracking ``dog``
+### Tracking ``dog`` and ``person``
 <p align="center"><img src="dog.gif" width="640"\></p>
 
 # Table of Contents
