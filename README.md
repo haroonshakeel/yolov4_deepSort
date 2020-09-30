@@ -85,13 +85,13 @@ If you want to run yolov3 or yolov3-tiny change ``--model yolov3`` in command an
 
 ```bash
 # Run Tracking on Video
-python track_objects.py --weights ./checkpoints/yolov4-416 --score 0.3 --video ./data/japan.mp4 --output ./results/demo.avi --model yolov4
+python track_objects.py --weights ./checkpoints/yolov4-416 --score 0.3 --video ./data/dog.mp4 --output ./results/demo.avi --model yolov4
 
 # Run Tracking on Webcam
 python track_objects.py --weights ./checkpoints/yolov4-416 --score 0.3 --video 0 --output ./results/webcam.avi --model yolov4
 
 # Run Tracking on Video With Tiny Yolov4
-python track_objects.py --weights ./checkpoints/yolov4-tiny-416 --score 0.3 --video ./data/japan.mp4 --output ./results/demo_tiny.avi --model yolov4
+python track_objects.py --weights ./checkpoints/yolov4-tiny-416 --score 0.3 --video ./data/dog.mp4 --output ./results/demo_tiny.avi --model yolov4
 
 # Run Tracking on Webcam With Tiny Yolov4
 python track_objects.py --weights ./checkpoints/yolov4-tiny-416 --score 0.3 --video 0 --output ./results/webcam_tiny.avi --model yolov4
