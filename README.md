@@ -3,7 +3,7 @@
 
 This repository is created for the Youtube channel [TheCodingBug](https://www.youtube.com/channel/UCcNgapXcZkyW10FIOohZ1uA?sub_confirmation=1).
 
-This repository shows how to use YOLOv4 and YOLOv4-Tiny to track objects using ``Deep Sort``.
+This repository shows how to use YOLOv4 and YOLOv4-Tiny to track objects using ``Deep Sort``. This is tested with ``TensorFlow 2.3.1`` on ``GTX-1060``.
 
 
 # Object Tracking Results Yolov4 original weights
