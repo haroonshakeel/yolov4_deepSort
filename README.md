@@ -6,13 +6,16 @@ This repository is created for the Youtube channel [TheCodingBug](https://www.yo
 This repository shows how to use YOLOv4 and YOLOv4-Tiny to track objects using ``Deep Sort``.
 
 
-# Object Tracking Results Yolov4 original weight
+# Object Tracking Results Yolov4 original weights
 
 ### Tracking ``person``
 <p align="center"><img src="person.gif" width="640"\></p>
 
-### Tracking ``dog`` and ``person``
+### Tracking ``dog``
 <p align="center"><img src="dog.gif" width="640"\></p>
+
+### Tracking ``dog`` and ``person``
+<p align="center"><img src="dog_person.gif" width="640"\></p>
 
 # Table of Contents
 
