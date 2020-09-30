@@ -1,0 +1,19 @@
+name: tf-gpu
+
+dependencies:
+  - python==3.8
+  - pip
+  - matplotlib
+  - opencv
+  - cudnn
+  - cudatoolkit==10.1.243
+  - pip:
+    - tensorflow-gpu==2.3.1
+    - opencv-python==4.4.0.44
+    - lxml
+    - tqdm
+    - absl-py
+    - easydict
+    - pillow
+    - imutils
+    - scipy
