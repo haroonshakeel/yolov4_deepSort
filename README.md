@@ -9,10 +9,10 @@ This repository shows how to use YOLOv4 and YOLOv4-Tiny to track objects using `
 # Object Tracking Results Yolov4 original weight
 
 ### Tracking ``person``
-<p align="center"><img src="person.png" width="640"\></p>
+<p align="center"><img src="person.gif" width="640"\></p>
 
 ### Tracking ``dog``
-<p align="center"><img src="dog.png" width="640"\></p>
+<p align="center"><img src="dog.gif" width="640"\></p>
 
 # Table of Contents
 
