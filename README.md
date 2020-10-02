@@ -107,3 +107,4 @@ You can change which classes should tracked by modifying ``data/classes/tracking
 
   * [hunglc007 Yolov4 TensorFlow Repo](https://github.com/hunglc007/tensorflow-yolov4-tflite)
   * [nwojke DeepSort Repo](https://github.com/nwojke/deep_sort)
+  * [TheAIGuy DeepSort Repo](https://github.com/theAIGuysCode/yolov4-deepsort)
